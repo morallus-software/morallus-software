@@ -1,8 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ítalo%20Carlos&fontSize=80&fontAlignY=40&desc=Entusiasta%20de%20Tecnologia%20|%20Web%20Developer%20|%20DevOps&descSize=20&descAlignY=60&animation=twinkling)
+![capa-5.svg](https://galeria-morallus.vercel.app/api/svg/capa-5.svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Apaixonado+por+tecnologia+e+open+source;Desenvolvedor+Full+Stack+%7C+DevOps+Engineer;Construindo+o+futuro%2C+um+commit+por+vez" alt="Typing SVG" />
+![badge-entusiasta.svg](https://galeria-morallus.vercel.app/api/svg/badge-entusiasta.svg)
+![badge-devops.svg](https://galeria-morallus.vercel.app/api/svg/badge-devops.svg)
+![badge-full-stack.svg](https://galeria-morallus.vercel.app/api/svg/badge-full-stack.svg)
+![badge-ui-ux.svg](https://galeria-morallus.vercel.app/api/svg/badge-ui-ux.svg)
 
 </div>
 
