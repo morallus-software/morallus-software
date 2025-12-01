@@ -1,4 +1,4 @@
-![capa-5.svg](https://galeria-morallus.vercel.app/api/svg/capa-5.svg?width=100%&height=180)
+![morallus.svg](https://galeria-morallus.vercel.app/api/svg/morallus.svg)
 
 ---
 
