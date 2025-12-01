@@ -1,11 +1,13 @@
+![capa-5.svg](https://galeria-morallus.vercel.app/api/svg/capa-5.svg?width=100%&height=180)
+
+---
+
 <div align="center">
-
-![capa-5.svg](https://galeria-morallus.vercel.app/api/svg/capa-5.svg?height=200)
-
-![badge-entusiasta.svg](https://galeria-morallus.vercel.app/api/svg/badge-entusiasta.svg?width=200)
-![badge-devops.svg](https://galeria-morallus.vercel.app/api/svg/badge-devops.svg?width=200)
-![badge-full-stack.svg](https://galeria-morallus.vercel.app/api/svg/badge-full-stack.svg?width=200)
-![badge-ui-ux.svg](https://galeria-morallus.vercel.app/api/svg/badge-ui-ux.svg?width=200)
+  
+![badge-entusiasta.svg](https://galeria-morallus.vercel.app/api/svg/badge-entusiasta.svg?width=180)
+![badge-devops.svg](https://galeria-morallus.vercel.app/api/svg/badge-devops.svg?width=180)
+![badge-full-stack.svg](https://galeria-morallus.vercel.app/api/svg/badge-full-stack.svg?width=180)
+![badge-ui-ux.svg](https://galeria-morallus.vercel.app/api/svg/badge-ui-ux.svg?width=180)
 
 </div>
 
