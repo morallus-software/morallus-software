@@ -2,14 +2,10 @@
 
 ---
 
-<div align="center">
-  
 ![badge-entusiasta.svg](https://galeria-morallus.vercel.app/api/svg/badge-entusiasta.svg)
 ![badge-devops.svg](https://galeria-morallus.vercel.app/api/svg/badge-devops.svg)
 ![badge-full-stack.svg](https://galeria-morallus.vercel.app/api/svg/badge-full-stack.svg)
 ![badge-ui-ux.svg](https://galeria-morallus.vercel.app/api/svg/badge-ui-ux.svg)
-
-</div>
 
 ---
 
