@@ -4,10 +4,10 @@
 
 <div align="center">
   
-![badge-entusiasta.svg](https://galeria-morallus.vercel.app/api/svg/badge-entusiasta.svg?width=150)
-![badge-devops.svg](https://galeria-morallus.vercel.app/api/svg/badge-devops.svg?width=150)
-![badge-full-stack.svg](https://galeria-morallus.vercel.app/api/svg/badge-full-stack.svg?width=150)
-![badge-ui-ux.svg](https://galeria-morallus.vercel.app/api/svg/badge-ui-ux.svg?width=150)
+![badge-entusiasta.svg](https://galeria-morallus.vercel.app/api/svg/decorativos/badge-entusiasta.svg?width=150)
+![badge-devops.svg](https://galeria-morallus.vercel.app/api/svg/decorativos/badge-devops.svg?width=150)
+![badges/decorativos/badge-full-stack.svg](https://galeria-morallus.vercel.app/api/svg/badges/decorativos/badge-full-stack.svg?width=150)
+![badge-ui-ux.svg](https://galeria-morallus.vercel.app/api/svg/decorativos/badge-ui-ux.svg?width=150)
 
 </div>
 
